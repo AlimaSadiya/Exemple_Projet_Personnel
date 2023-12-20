@@ -1,0 +1,7 @@
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\bin\Debug\assurance_exo4.exe.config
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\bin\Debug\assurance_exo4.exe
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\bin\Debug\assurance_exo4.pdb
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\obj\Debug\assurance_exo4.csproj.AssemblyReference.cache
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\obj\Debug\assurance_exo4.csproj.CoreCompileInputs.cache
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\obj\Debug\assurance_exo4.exe
+C:\Users\Sadiya\source\repos\assurance_exo4\assurance_exo4\obj\Debug\assurance_exo4.pdb
